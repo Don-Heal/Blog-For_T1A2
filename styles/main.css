@@ -33,7 +33,7 @@
 }
 
 #watagans h6 {
-  margin-left: 90%;
+  margin-left: 75%;
   font-size: 90%;
   text-decoration: underline;
 }
@@ -42,7 +42,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 40%;
+  width: 48%;
   font-size: 200%;
 }
 
@@ -64,7 +64,7 @@
 }
 
 #belanglo h6 {
-  margin-left: 90%;
+  margin-left: 75%;
   font-size: 90%;
   text-decoration: underline;
 }
@@ -95,7 +95,7 @@
 }
 
 #newnes h6 {
-  margin-left: 90%;
+  margin-left: 75%;
   font-size: 90%;
   text-decoration: underline;
 }
@@ -128,7 +128,7 @@
 
 #jenolan h6 {
   text-decoration: underline;
-  margin-left: 90%;
+  margin-left: 75%;
   font-size: 90%;
 }
 
@@ -159,7 +159,7 @@
 
 #stockton h6 {
   text-decoration: underline;
-  margin-left: 90%;
+  margin-left: 75%;
   font-size: 90%;
 }
 
@@ -194,7 +194,7 @@
   }
   #watagans h6 {
     text-decoration: underline;
-    margin-left: 90%;
+    margin-left: 75%;
     font-size: 45%;
   }
   #watagans p {
@@ -221,7 +221,7 @@
   }
   #belanglo h6 {
     text-decoration: underline;
-    margin-left: 90%;
+    margin-left: 75%;
     font-size: 45%;
   }
   #belanglo p {
@@ -248,7 +248,7 @@
   }
   #newnes h6 {
     text-decoration: underline;
-    margin-left: 90%;
+    margin-left: 75%;
     font-size: 45%;
   }
   #newnes p {
@@ -275,7 +275,7 @@
   }
   #jenolan h6 {
     text-decoration: underline;
-    margin-left: 90%;
+    margin-left: 75%;
     font-size: 45%;
   }
   #jenolan p {
@@ -302,7 +302,7 @@
   }
   #stockton h6 {
     text-decoration: underline;
-    margin-left: 90%;
+    margin-left: 75%;
     font-size: 45%;
   }
   #stockton p {
@@ -339,10 +339,10 @@
     margin-top: 15%;
   }
   #watagans img h6 {
-    margin-left: 80%;
+    margin-left: 75%;
   }
   #belanglo h6 {
-    margin-left: 80%;
+    margin-left: 75%;
   }
   #belanglo p {
     display: -webkit-box;
@@ -358,7 +358,7 @@
     margin-top: 2%;
   }
   #newnes h6 {
-    margin-left: 80%;
+    margin-left: 75%;
   }
   #newnes p {
     display: -webkit-box;
@@ -374,7 +374,7 @@
     margin-top: 20%;
   }
   #jenolan h6 {
-    margin-left: 80%;
+    margin-left: 75%;
   }
   #jenolan p {
     display: -webkit-box;
@@ -390,7 +390,7 @@
     margin-top: 20%;
   }
   #stockton h6 {
-    margin-left: 80%;
+    margin-left: 75%;
   }
   #stockton p {
     display: -webkit-box;
