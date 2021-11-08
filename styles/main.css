@@ -12,10 +12,10 @@
 #main-header {
   text-decoration: underline;
   background-color: beige;
-  font-size: 300%;
+  font-size: 3vw;
   position: absolute;
   margin-top: -50%;
-  margin-left: 25%;
+  margin-left: 18%;
 }
 
 #main-header h4 {
@@ -176,5 +176,219 @@
   width: 45vw;
   margin-left: 45%;
   margin-top: 0%;
+}
+
+@media only screen and (max-width: 1024px) {
+  #main-header {
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 20%;
+  }
+  #main-header h4 {
+    margin-left: 35%;
+  }
+  #watagans h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+  }
+  #watagans h6 {
+    text-decoration: underline;
+    margin-left: 90%;
+    font-size: 45%;
+  }
+  #watagans p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    font-size: 100%;
+  }
+  #watagans img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: -45%;
+  }
+  #watagans iframe {
+    max-width: 35vw;
+    max-height: 35vh;
+  }
+  #belanglo h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+  }
+  #belanglo h6 {
+    text-decoration: underline;
+    margin-left: 90%;
+    font-size: 45%;
+  }
+  #belanglo p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    font-size: 100%;
+  }
+  #belanglo img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: -35%;
+  }
+  #belanglo iframe {
+    max-width: 35vw;
+    max-height: 35vh;
+  }
+  #newnes h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+  }
+  #newnes h6 {
+    text-decoration: underline;
+    margin-left: 90%;
+    font-size: 45%;
+  }
+  #newnes p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    font-size: 100%;
+  }
+  #newnes img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 15%;
+  }
+  #newnes iframe {
+    max-width: 35vw;
+    max-height: 35vh;
+  }
+  #jenolan h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+  }
+  #jenolan h6 {
+    text-decoration: underline;
+    margin-left: 90%;
+    font-size: 45%;
+  }
+  #jenolan p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    font-size: 100%;
+  }
+  #jenolan img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: -30%;
+  }
+  #jenolan iframe {
+    max-width: 35vw;
+    max-height: 35vh;
+  }
+  #stockton h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+  }
+  #stockton h6 {
+    text-decoration: underline;
+    margin-left: 90%;
+    font-size: 45%;
+  }
+  #stockton p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    font-size: 100%;
+  }
+  #stockton img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 15%;
+  }
+  #stockton iframe {
+    max-width: 35vw;
+    max-height: 35vh;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #watagans p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    font-size: 100%;
+  }
+  #watagans img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 15%;
+  }
+  #belanglo p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    font-size: 100%;
+  }
+  #belanglo img {
+    position: absolute;
+    width: 35vw;
+    margin-left: 45%;
+    margin-top: 2%;
+  }
+  #newnes p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    font-size: 100%;
+  }
+  #newnes img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 100%;
+  }
+  #jenolan p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    font-size: 100%;
+  }
+  #jenolan img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 20%;
+  }
+  #stockton p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    font-size: 100%;
+  }
+  #stockton img {
+    position: absolute;
+    width: 45vw;
+    margin-left: 45%;
+    margin-top: 80%;
+  }
 }
 /*# sourceMappingURL=main.css.map */
