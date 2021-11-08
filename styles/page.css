@@ -49,8 +49,8 @@
 #watagans img {
   position: absolute;
   width: 45vw;
-  margin-left: 45%;
-  margin-top: -30%;
+  margin-left: 50%;
+  margin-top: -25%;
 }
 
 #belanglo {
@@ -112,7 +112,7 @@
   position: absolute;
   width: 45vw;
   margin-left: 45%;
-  margin-top: 5%;
+  margin-top: -30%;
 }
 
 #jenolan {
@@ -144,7 +144,7 @@
   position: absolute;
   width: 40vw;
   margin-left: 45%;
-  margin-top: -24%;
+  margin-top: -20%;
 }
 
 #stockton {
@@ -175,7 +175,7 @@
   position: absolute;
   width: 45vw;
   margin-left: 45%;
-  margin-top: 0%;
+  margin-top: -25%;
 }
 
 @media only screen and (max-width: 1024px) {
