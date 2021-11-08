@@ -338,6 +338,12 @@
     margin-left: 45%;
     margin-top: 15%;
   }
+  #watagans img h6 {
+    margin-left: 80%;
+  }
+  #belanglo h6 {
+    margin-left: 80%;
+  }
   #belanglo p {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -351,6 +357,9 @@
     margin-left: 45%;
     margin-top: 2%;
   }
+  #newnes h6 {
+    margin-left: 80%;
+  }
   #newnes p {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -362,7 +371,10 @@
     position: absolute;
     width: 45vw;
     margin-left: 45%;
-    margin-top: 100%;
+    margin-top: 20%;
+  }
+  #jenolan h6 {
+    margin-left: 80%;
   }
   #jenolan p {
     display: -webkit-box;
@@ -377,6 +389,9 @@
     margin-left: 45%;
     margin-top: 20%;
   }
+  #stockton h6 {
+    margin-left: 80%;
+  }
   #stockton p {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -388,7 +403,7 @@
     position: absolute;
     width: 45vw;
     margin-left: 45%;
-    margin-top: 80%;
+    margin-top: 20%;
   }
 }
 /*# sourceMappingURL=page.css.map */

@@ -305,9 +305,15 @@
                     width: 45vw;
                     margin-left: 45%;
                     margin-top: 15%;
+                    h6 {
+                        margin-left: 80%;
+                    }
                 }
             }
             #belanglo {
+                h6 {
+                    margin-left: 80%;
+                }
                 p {
                     display: flex;
                     width: 90%;
@@ -321,6 +327,9 @@
                 }
             }
             #newnes {
+                h6 {
+                    margin-left: 80%;
+                }
                 p {
                     display: flex;
                     width: 90%;
@@ -330,10 +339,13 @@
                     position: absolute;
                     width: 45vw;
                     margin-left: 45%;
-                    margin-top: 100%;
+                    margin-top: 20%;
                 }
             }
             #jenolan {
+                h6 {
+                    margin-left: 80%;
+                }
                 p {
                     display: flex;
                     width: 90%;
@@ -347,6 +359,9 @@
                 }
             }
             #stockton {
+                h6 {
+                    margin-left: 80%;
+                }
                 p {
                     display: flex;
                     width: 90%;
@@ -356,7 +371,7 @@
                     position: absolute;
                     width: 45vw;
                     margin-left: 45%;
-                    margin-top: 80%;
+                    margin-top: 20%;
                 }
             }
         }
